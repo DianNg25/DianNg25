@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Spigot Plugin API, Pet care Development**
 
-- 👨‍💻 All of my projects are available at [github.com/LuuBaro](https://github.com/DianNg25)
+- 👨‍💻 All of my projects are available at [github.com/DianNg25](https://github.com/DianNg25)
 
 - 💬 Ask me about **Java**
 
@@ -96,8 +96,8 @@
 
 <h3 align="center">My Stats:</h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=LuuBaro&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=DianNg25&hide_border=true&theme=transparent&show_icon=true&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=LuuBaro&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DianNg25&hide_border=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
